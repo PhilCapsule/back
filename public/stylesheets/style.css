@@ -2,10 +2,39 @@ body {
   padding: 0px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
   
+  
 }
 
 a {
   color: #00B7FF;
+}
+
+
+.navbarAccueil1 {
+  background-color: rgb(179, 179, 236);
+  font-size: 13px;
+}
+
+.navbarAccueil2 {
+  color: black;
+  background-color: rgb(0, 0, 0);
+}
+
+.titre {
+  border-bottom-color: rgb(24, 23, 23);
+}
+
+hr {
+  margin: auto;
+  border-top: 2px solid rgb(0, 0, 0);
+  overflow: visible;
+  
+  
+}
+
+.navbar-brand{
+  font-size: 14px;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 
